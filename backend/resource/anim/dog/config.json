@@ -1,0 +1,71 @@
+{
+  "main": {
+    "url": "https://localhost:3000/resource/anim/dog/runningdog.png",
+    "width": 1048,
+    "flame": 7,
+    "fps": 16,
+    "interrupt": false,
+    "index": 0,
+    "pos": 0,
+    "loop": -1,
+    "count": 0
+  },
+  "success": {
+    "url": "https://localhost:3000/resource/anim/dog/success_runningdog.png",
+    "width": 1048,
+    "flame": 18,
+    "fps": 16,
+    "interrupt": true,
+    "index": 0,
+    "pos": 0,
+    "loop": 1,
+    "count": 0
+  },
+  "fail": {
+    "url": "https://localhost:3000/resource/anim/dog/fail_runningdog.png",
+    "width": 1048,
+    "flame": 14,
+    "fps": 16,
+    "interrupt": true,
+    "index": 0,
+    "pos": 0,
+    "loop": 1,
+    "count": 0
+  },
+  "in": {
+    "url": "https://localhost:3000/resource/anim/dog/in_runningdog.jpg",
+    "width": 1048,
+    "height": 260,
+    "flame": 8,
+    "fps": 16,
+    "interrupt": true,
+    "index": 0,
+    "pos": 0,
+    "loop": 1,
+    "count": 0
+  },
+  "out": {
+    "url": "https://localhost:3000/resource/anim/dog/out_runningdog.jpg",
+    "width": 1048,
+    "height": 260,
+    "flame": 18,
+    "fps": 16,
+    "interrupt": true,
+    "index": 0,
+    "pos": 0,
+    "loop": 1,
+    "count": 0
+  },
+  "wait": {
+    "url": "https://localhost:3000/resource/anim/dog/wait.jpg",
+    "width": 1048,
+    "height": 260,
+    "flame": 1,
+    "fps": 0.5,
+    "interrupt": true,
+    "index": 0,
+    "pos": 0,
+    "loop": 1,
+    "count": 0
+  }
+}
